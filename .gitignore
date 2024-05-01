@@ -3,3 +3,5 @@ venv/
 *.pyc
 __pyche__/
 .python*
+octave/
+
