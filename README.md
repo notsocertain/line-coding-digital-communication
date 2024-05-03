@@ -12,5 +12,7 @@ Types of line coding implemented
 8. AMI
 
 Implementation Details
-- in python with matplotlib library and numpy
+- in python with matplotlib and numpy library
+
+Reference and understanding from: Dr VTS E-learns hub on youtube
 
